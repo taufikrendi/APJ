@@ -175,7 +175,7 @@
                 ]
             },
             "properties": {
-                "name": "MENTENG"
+                "name": "DKI1"
             }
           },
           {
@@ -328,7 +328,7 @@
                 ]
             },
             "properties": {
-                "name": "KELAPA GADING"
+                "name": "DKI2"
             }
         },
         {
@@ -797,7 +797,7 @@
                 ]
             },
             "properties": {
-                "name": "JAGAKARSA"
+                "name": "DKI3"
             }
         },
         {
@@ -1062,7 +1062,7 @@
                 ]
             },
             "properties": {
-                "name": "KEBON JERUK"
+                "name": "DKI5"
             }
         },
         {
@@ -1399,7 +1399,7 @@
                 ]
             },
             "properties": {
-                "name": "CIPAYUNG"
+                "name": "DKI4"
             }
         }
     ]
